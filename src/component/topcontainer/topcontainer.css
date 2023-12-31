@@ -1,0 +1,10 @@
+.topcontainer{
+    position: relative;
+    background: url('C:\Users\HP\Downloads\IMG-3475.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 140vh;
+    display: flex;
+    box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5);
+}
